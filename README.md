@@ -71,7 +71,7 @@
 
  - `DOWNLOAD`:
 ```
-git clone https://github.com/cutipu/HASOKI.git
+git clone https://github.com/rusdy-cyber/void-god-azatod.git
 ```
  - `INSTALL`:
 ```
