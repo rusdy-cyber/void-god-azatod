@@ -81,6 +81,10 @@ python setup.py install or python3 setup.py install
  ```
  pip3 install -r requirements.txt  or  pip install -r requirements.txt
 ```
+ - `jalnkan`:
+```
+python main.py or python3 main.py
+```
 
  - NOTICE: For bypass work need install lastest verion Chrome
 ```
