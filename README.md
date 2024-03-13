@@ -8,7 +8,7 @@
  <a href="https://github.com/cutipu/HASOKI/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/cutipu/HASOKI?color=purple&style=for-the-badge"></a>
    <img src="https://img.shields.io/github/license/cutipu/HASOKI?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
 </p>
- `DDoS Attack Panel includes CloudFlare Bypass` (UAM, CAPTCHA, GS ,VS ,BFM, etc..)<br/><br/>
+ DDoS Attack Panel includes CloudFlare Bypass (UAM, CAPTCHA, GS ,VS ,BFM, etc..)<br/><br/>
  This is open source code. I am not responsible if you use it for malicious attacks!
 </div>
 
