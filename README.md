@@ -1,3 +1,5 @@
+# `void-god-azatod` Hasoki
+
 <div align=center>
  <p>
  <img src="https://img.shields.io/github/stars/cutipu/HASOKI?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -64,21 +66,33 @@
 ```
 
 ## Usage
-```sh
-You must use Python 3.9 or higher
-DOWNLOAD:  git clone https://github.com/cutipu/HASOKI.git
-INSTALL: - python setup.py install or python3 setup.py install
-         - with pip:
-           pip3 install -r requirements.txt  or  pip install -r requirements.txt
-NOTICE: For bypass work need install lastest verion Chrome
- - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
- - apt-get install ./google-chrome-stable_current_amd64.deb
- Thread set 10-50 > work
+**sh**
+> _You must use Python 3.9 or higher_
+
+ - DOWNLOAD:
+```
+git clone https://github.com/cutipu/HASOKI.git
+```
+ - INSTALL:
+```
+python setup.py install or python3 setup.py install
+```
+ - with pip:
+ ```
+ pip3 install -r requirements.txt  or  pip install -r requirements.txt
 ```
 
+ - NOTICE: For bypass work need install lastest verion Chrome
+```
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+apt-get install ./google-chrome-stable_current_amd64.deb
+```
+> _Thread set 10-50 > work_
+
+
 ## Contact Developer
-```sh
- Buy Me a Coffee BTC: 3MxrJbEjqrQm4DQ71TPs5wSYX3opMjrvVb
+**sh**
+```
  LEAKS https://t.me/hackingleak
  Dev : https://t.me/rebychubx
 ```
